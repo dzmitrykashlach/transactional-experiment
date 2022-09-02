@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+HELP.md
+>>>>>>> 2b1cd34e12fcce197017252014e5304c0b02813e
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
